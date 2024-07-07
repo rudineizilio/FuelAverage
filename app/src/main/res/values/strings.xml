@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calcula Media</string>
+    <string name="et_first_fuel_error">Campo (Consumo - Combustível 1) deve ser preenchido!</string>
+    <string name="et_second_fuel_error">Campo (Consumo - Combustível 2) deve ser preenchido!</string>
+    <string name="et_first_value_error">Campo (Valor Litro - Combustível 1) deve ser preenchido!</string>
+    <string name="et_second_value_error">Campo (Valor Litro - Combustível 2) deve ser preenchido!</string>
+    <string name="tv_first_fuel">Consumo - Combustível 1</string>
+    <string name="hint_fuel">Consumo em Km/L</string>
+    <string name="tv_second_fuel">Consumo - Combustível 2</string>
+    <string name="search">Buscar</string>
+    <string name="tv_first_value">Valor Litro - Combustível 1</string>
+    <string name="hint_value">Valor em R$</string>
+    <string name="tv_second_value">Valor Litro - Combustível 2</string>
+    <string name="calculate">Calcular</string>
+    <string name="clean">Limpar</string>
+    <string name="first_fuel_most_lucrative">O combustível 1 é mais Lucrativo.</string>
+    <string name="second_fuel_most_lucrative">O combustível 2 é mais Lucrativo.</string>
+    <string name="no_difference_values">Com base nos cálculos, não terá diferença!</string>
+</resources>
